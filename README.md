@@ -6,4 +6,4 @@ I would specifically draw your attention the following:
 - 'Online order service'
    - **SQL database** and **chat bot** for fictional e-commerce as a part of Database Theory
 - 'Thesis work'  
-   - NLP project with topic modeling of scientific paper abstracts
+   - **NLP project** with **topic modeling** of scientific paper abstracts
